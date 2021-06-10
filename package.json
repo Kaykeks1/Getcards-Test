@@ -1,0 +1,23 @@
+{
+  "name": "getcards-test",
+  "version": "1.0.0",
+  "description": "Getcards test solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "nodemon": "^2.0.6",
+    "supertest": "^6.1.3"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  }
+}
